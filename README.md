@@ -1,6 +1,4 @@
 # Project-2-Interprocess-communication-techniques-under-Linux
-# Project #2
-# Interprocess communication techniques under Linux
 ## OIM simulation
 We would like to create a multi-processing application that simulates the daily operation
 of the occupation interior ministry offices (OIM for short) at Sheikh Jarrah neighborhood
